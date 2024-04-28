@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fivem-docs
+  annotations:
+    github.com/project-slug: 21JumpClick/fivem-docs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: fivem
