@@ -1,0 +1,7 @@
+site_name: 'Fivem Doc'
+
+nav:
+  - Home: _index.md
+
+plugins:
+  - techdocs-core
