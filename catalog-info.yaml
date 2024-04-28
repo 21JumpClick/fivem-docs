@@ -4,6 +4,7 @@ metadata:
   name: fivem-docs
   annotations:
     github.com/project-slug: 21JumpClick/fivem-docs
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
